@@ -1,4 +1,4 @@
-**Important**: This is a Dust (Linkedin) 2.7.5 version with only security dependencies fixed. 
+**Important**: This is a Dust (Linkedin) version 2.7.5 with only security dependencies fixed. 
 
 ```
 npm install dustjs-linkedin-fixed
