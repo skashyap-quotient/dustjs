@@ -1,6 +1,6 @@
 /*! dustjs-linkedin - v2.7.5
 * http://dustjs.com/
-* Copyright (c) 2016 Aleksander Williams; Released under the MIT License */
+* Copyright (c) 2021 Aleksander Williams; Released under the MIT License */
 (function (root, factory) {
   if (typeof define === 'function' && define.amd && define.amd.dust === true) {
     define('dust.core', [], factory);
