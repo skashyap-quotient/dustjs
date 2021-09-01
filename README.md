@@ -1,4 +1,4 @@
-**Important**: This is a copy of [https://www.npmjs.com/package/dustjs-linkedin-fixed](https://www.npmjs.com/package/dustjs-linkedin-fixed) but with the correct link to sources. Shall archive this if the original author updates their sources for the npm package.  
+**Important**: This is a copy of [https://www.npmjs.com/package/dustjs-linkedin-fixed](https://www.npmjs.com/package/dustjs-linkedin-fixed) but with the correct link to the repository. Shall archive this if the original author updates their sources for the npm package.  
 Link to source (from where this has been forked from) - [https://github.com/kurdin/dustjs](https://github.com/kurdin/dustjs)  
 This is a Dust (Linkedin) version 2.7.5 with only security dependencies fixed. 
 
