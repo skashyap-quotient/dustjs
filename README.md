@@ -3,7 +3,7 @@ Link to source (from where this has been forked from) - [https://github.com/kurd
 This is a Dust (Linkedin) version 2.7.5 with only security dependencies fixed. 
 
 ```
-npm install dustjs-linkedin-fixed
+npm install dustjs-linkedin-fixed-with-source
 ```
 
 
@@ -17,9 +17,9 @@ Asynchronous Javascript templating for the browser and server. This fork is main
 
 **Important**: We recommend that you lock your version of Dust to a specific minor version, instead of a major version. By default, NPM will add `"dustjs-linkedin": "^2.x.y"` to your package.json, which will install new minor versions automatically.
 
-    npm install --save --production dustjs-linkedin-fixed
+    npm install --save --production dustjs-linkedin-fixed-with-source
     # If you want the dustc compiler available globally
-    npm install --global --production dustjs-linkedin-fixed
+    npm install --global --production dustjs-linkedin-fixed-with-source
 
 If you want to add the [Dust helpers](https://github.com/linkedin/dustjs-helpers) or [secure filters](https://github.com/linkedin/dustjs-filters-secure):
 
