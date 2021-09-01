@@ -1,11 +1,11 @@
 {
-  "name": "dustjs-linkedin-fixed",
+  "name": "dustjs-linkedin-fixed-with-source",
   "version": "2.7.5",
   "author": {
     "name": "Aleksander Williams",
     "url": "http://akdubya.github.com/dustjs"
   },
-  "homepage": "http://dustjs.com/",
+  "homepage": "http://github.com/skashyap-quotient/dustjs",
   "description": "Asynchronous templates for the browser and server (LinkedIn fork)",
   "contributors": [
     "Veena Basavaraj <vybs@users.noreply.github.com>",
@@ -28,7 +28,7 @@
   "browser": "./lib/dust.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/linkedin/dustjs.git"
+    "url": "https://github.com/skashyap-quotient/dustjs.git"
   },
   "keywords": [
     "templates",
